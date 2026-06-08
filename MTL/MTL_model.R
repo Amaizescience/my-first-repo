@@ -1,5 +1,3 @@
-#2026.4.27
-
 # Goal: we want to predict available soil moisture content (nFK, %; See below L74) at three different soil depths (0-20cm, 20-40cm and 40-60cm)
 # Model configuration = Long-short term memory (LSTM) + multi task learning (MTL) + attention
 # What's the reasoning behind this configuration:
